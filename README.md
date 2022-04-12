@@ -6,7 +6,7 @@ Web Development and Designing
 
 Level 1 :- 
 
-Task 2: Portfolio : https://karank28.github.io/OIBSIP-Level-1-Task-1/index.html#
+Task 2: Portfolio : https://karank28.github.io/OIBSIP-Level-1-Task-2/
 
 Languages: HTML, CSS, Javascript
 
